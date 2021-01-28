@@ -79,12 +79,12 @@ footer {
   background-color: #aaaaaa;
 }
 
-@media screen and (max-width: 425px) {
-  headeer{
+@media screen and (max-width: 768px) {
+  headeer {
     width: 100%;
   }
 
-  main{
+  main {
     width: 100%;
   }
 
@@ -94,17 +94,17 @@ footer {
     display: block;
   }
 
-  .contents-box{
+  .contents-box {
     width: 100%;
     margin: 0 auto;
     margin-bottom: 20px;
   }
 
-  .box3{
+  .box3 {
     margin-bottom: 0;
   }
 
-  .img-area{
+  .img-area {
     height: 150px;
   }
 }
